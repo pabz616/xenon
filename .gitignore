@@ -12,6 +12,8 @@ lerna-debug.log*
 node_modules/
 jspm_packages/
 
+archive/
+
 # Stores VSCode versions used for testing VSCode extensions
 .vscode
 .vscode-test
