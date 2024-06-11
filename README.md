@@ -7,6 +7,8 @@ Playwright w. JAVA
 1. Latest version of node: `node --version`
 2. Latest version of npm: `npm --version`
 3. Latest version of playwright: `playwright --version`
+4. Latest version of java: `java --version`
+5. Latest version of maven: `mvn --version`
 
 To make the necessary updates:
 
@@ -19,9 +21,24 @@ brew upgrade node
 # npm
 npm install -g npm
 
+
 # playwright
 npm install -D @playwright/test@latest - for the framework
 npx playwright install - for the browsers
+
+#java for Mac
+visit: https://osxdaily.com/2024/06/03/how-install-java-mac-m3-m2-m1-apple-silicon/
+
+#java on Windows
+visit: https://www.supportyourtech.com/articles/how-to-install-java-on-windows-11-a-step-by-step-guide-for-beginners/
+
+Confirm you also have the right runtime environment
+
+# maven on Mac
+https://macpaw.com/how-to/install-maven-on-mac
+
+# maven on Windows
+https://maven.apache.org/install.html
 ```
 
 ## Setup
